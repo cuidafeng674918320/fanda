@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: "苹方 常规";
+}
+.left{
+    width: 400px;
+    height: 400px;
+    background: url("../img/01.jpg") no-repeat;
+    background-size: cover;
+    border: 1px solid black;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+}
+.fdj{
+    width: 220px;
+    height: 200px;
+    background: rgba(255,255,255,0.5);
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: none;
+}
+.cover{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+/*右开始*/
+.right{
+    width: 440px;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+    float: left;
+    margin: 10px 0 0 10px;
+    display: none;
+}
+.right img{
+    width: 800px;
+    height: 800px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+/*右结束*/
