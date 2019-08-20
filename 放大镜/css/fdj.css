@@ -5,10 +5,16 @@
     text-decoration: none;
     font-family: "苹方 常规";
 }
+.box{
+    width: auto;
+    height: auto;
+    position: absolute;
+
+}
 .left{
     width: 400px;
     height: 400px;
-    background: url("../img/01.jpg") no-repeat;
+    background: url("../img/02.jpg") no-repeat;
     background-size: cover;
     border: 1px solid black;
     box-sizing: border-box;

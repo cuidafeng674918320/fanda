@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc9cae2d-5b0d-478e-b7a5-61041dfb7b5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/fdj.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fdj.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fdj.html" beforeDir="false" afterPath="$PROJECT_DIR$/fdj.html" afterDir="false" />
+    <list default="true" id="0bf1e429-070f-41b3-a950-2c710f333e8e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/放大镜/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/放大镜/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/放大镜/css/fdj.css" beforeDir="false" afterPath="$PROJECT_DIR$/放大镜/css/fdj.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/放大镜/fdj.html" beforeDir="false" afterPath="$PROJECT_DIR$/放大镜/fdj.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/放大镜/js/fdj.js" beforeDir="false" afterPath="$PROJECT_DIR$/放大镜/js/fdj.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,28 +16,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fdj.html">
+        <entry file="file://$PROJECT_DIR$/放大镜/fdj.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="171">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/fdj.css">
+        <entry file="file://$PROJECT_DIR$/放大镜/css/fdj.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="19">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/fdj.js">
+        <entry file="file://$PROJECT_DIR$/放大镜/js/fdj.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+            <state relative-caret-position="241">
+              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -43,49 +49,71 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/fdj.js" />
-        <option value="$PROJECT_DIR$/fdj.html" />
-        <option value="$PROJECT_DIR$/css/fdj.css" />
+        <option value="$PROJECT_DIR$/放大镜/css/fdj.css" />
+        <option value="$PROJECT_DIR$/放大镜/fdj.html" />
+        <option value="$PROJECT_DIR$/放大镜/js/fdj.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/fanda.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-430" />
     <option name="y" value="25" />
     <option name="width" value="1420" />
     <option name="height" value="980" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="放大镜" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fanda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fanda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fanda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fanda" type="462c0819:PsiDirectoryNode" />
               <item name="放大镜" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="放大镜" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fanda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fanda" type="462c0819:PsiDirectoryNode" />
+              <item name="放大镜" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fanda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fanda" type="462c0819:PsiDirectoryNode" />
               <item name="放大镜" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="放大镜" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fanda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fanda" type="462c0819:PsiDirectoryNode" />
               <item name="放大镜" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="放大镜" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fanda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fanda" type="462c0819:PsiDirectoryNode" />
               <item name="放大镜" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -93,10 +121,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -118,23 +146,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fc9cae2d-5b0d-478e-b7a5-61041dfb7b5e" name="Default Changelist" comment="" />
-      <created>1566020718985</created>
+      <changelist id="0bf1e429-070f-41b3-a950-2c710f333e8e" name="Default Changelist" comment="" />
+      <created>1566181116687</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566020718985</updated>
-      <workItem from="1566020725338" duration="7248000" />
-      <workItem from="1566139026254" duration="128000" />
-      <workItem from="1566174149430" duration="8000" />
-      <workItem from="1566186842640" duration="621000" />
+      <updated>1566181116687</updated>
+      <workItem from="1566181120136" duration="646000" />
+      <workItem from="1566185600585" duration="271000" />
+      <workItem from="1566204959675" duration="3200000" />
+      <workItem from="1566210830764" duration="218000" />
+      <workItem from="1566211275191" duration="514000" />
+      <workItem from="1566261815301" duration="82000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8005000" />
+    <option name="totallyTimeSpent" value="4931000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -164,24 +194,37 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/fdj.js">
+    <entry file="file://$PROJECT_DIR$/放大镜/img/01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/放大镜/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/放大镜/.idea/放大镜.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/放大镜/js/fdj.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        <state relative-caret-position="241">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/fdj.css">
+    <entry file="file://$PROJECT_DIR$/放大镜/css/fdj.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="19">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fdj.html">
+    <entry file="file://$PROJECT_DIR$/放大镜/fdj.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="171">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
